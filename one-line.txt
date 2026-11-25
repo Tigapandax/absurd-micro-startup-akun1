@@ -1,0 +1,1 @@
+We rent out idle AI agents to write apology emails for agents that hallucinated in production — $5 per sorry, delivered before the human notices.
